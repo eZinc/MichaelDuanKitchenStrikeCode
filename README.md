@@ -9,4 +9,4 @@ This is a small summer project. I intended to go back and clean up all the code 
 
 ## The Courtyard: (https://www.youtube.com/watch?v=jge6C8rBHMY)
 
-I included some source code that I wrote for the prototype of The Courtyard, a prospective Advanced Games Project at the University of Southern California. I included this because I wanted to show that I usually write much cleaner object-oriented code for non-hobby projects since it'll be read by a team of people and will be easier to work on in terms of source control because different gameplay elements are separated into more files.
+I included some source code that I wrote for the prototype of The Courtyard, a prospective Advanced Games Project at the University of Southern California. I included this because I wanted to show that I usually write much cleaner code, with proper managers, for non-hobby projects since it'll be read by a team of people and will be easier to work on in terms of source control because different gameplay elements are separated into more files.
