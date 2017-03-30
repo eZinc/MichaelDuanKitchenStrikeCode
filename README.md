@@ -1,6 +1,5 @@
 # MichaelDuanKitchenStrikeCode
-A copy of the source code for Kitchen Strike  and The Courtyard . All of the source code was written by me, Michael Duan.
-
+A copy of the source code for Kitchen Strike  and The Courtyard . All of the source code was written by me, Michael Duan. In retrospect, I should have made better comments in both projects. That's something that I have to improve on.
 
 ## Kitchen Strike: (http://blog.kitchenstrike.com/)
 
@@ -9,4 +8,6 @@ This is a small summer project. I intended to go back and clean up all the code 
 
 ## The Courtyard: (https://www.youtube.com/watch?v=jge6C8rBHMY)
 
-I included some source code that I wrote for the prototype of The Courtyard, a prospective Advanced Games Project at the University of Southern California. I included this because I wanted to show that I usually write much cleaner code, with proper managers, for non-hobby projects since it'll be read by a team of people and will be easier to work on in terms of source control because different gameplay elements are separated into more files.
+I included some source code that I wrote for the prototype of The Courtyard, a prospective Advanced Games Project at the University of Southern California. I included this because I wanted to show that I usually write much more separated code, with proper managers/components, for non-hobby projects since it'll be read by a team of people and will be easier to work on in terms of source control because different gameplay elements are separated into more files. 
+
+I did not write most of the CustomFPSController.cs code. I only wrote the parts that involved ladder climbing.
